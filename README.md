@@ -1,1 +1,1 @@
-# D3-challenge
+This repository contains javascript for data visualisation using D3.
